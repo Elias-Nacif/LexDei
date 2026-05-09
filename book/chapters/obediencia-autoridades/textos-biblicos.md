@@ -1,7 +1,5 @@
 # Textos Bíblicos
 
-## O fundamento da autoridade
-
 ### Romanos 13.1–7
 
 > *"Todo homem esteja sujeito às autoridades superiores; porque não há
@@ -19,11 +17,6 @@
 > este mesmo fim. Dai a cada um o que deveis: a quem tributo, tributo;
 > a quem imposto, imposto; a quem temor, temor; a quem honra, honra."*
 > — Almeida Revista e Atualizada (ARA)
-
-**Nota contextual:** Paulo escreve a cristãos em Roma, sob o império de
-Nero. A instrução de submissão não é ingenuidade política — é uma declaração
-teológica: toda autoridade legítima existe dentro da soberania de Deus,
-e o cristão honra a Deus ao honrar as instituições ordenadas por Ele.
 
 ---
 
@@ -46,15 +39,7 @@ e o cristão honra a Deus ao honrar as instituições ordenadas por Ele.
 > a Deus antes que aos homens."*
 > — ARA
 
-**Nota:** Este versículo representa o limite da obediência humana.
-O contexto é crucial: os apóstolos desobedeceram ao Sinédrio porque este
-proibia explicitamente a pregação de Cristo — ou seja, a autoridade
-humana entrou em conflito direto com o mandamento divino. Não é uma
-carta branca para qualquer forma de resistência.
-
 ---
-
-## A autoridade como serviço
 
 ### Marcos 10.42–45
 
@@ -69,8 +54,6 @@ carta branca para qualquer forma de resistência.
 
 ---
 
-## Oração pelas autoridades
-
 ### 1 Timóteo 2.1–3
 
 > *"Exorto, antes de tudo, que se façam súplicas, orações, intercessões
@@ -82,25 +65,11 @@ carta branca para qualquer forma de resistência.
 
 ---
 
-## Textos para meditação adicional
-
-Estes versículos completam o quadro bíblico e merecem leitura atenta:
-
-- **Daniel 3** — Sadraque, Mesaque e Abednego diante de Nabucodonosor
-- **Daniel 6** — Daniel diante do decreto de Dario
-- **Êxodo 1.15–21** — As parteiras hebreias e o faraó
-- **Jeremias 29.4–7** — O chamado à fidelidade no exílio
-- **João 19.10–11** — Jesus diante de Pilatos: toda autoridade vem de cima
-- **Apocalipse 13** — A besta e o poder político pervertido
+### **Daniel 3**
+### **Daniel 6** 
+### **Êxodo 1.15–21** 
+### **Jeremias 29.4–7** 
+### **João 19.10–11** 
+### **Apocalipse 13** 
 
 ---
-
-:::{admonition} Para reflexão pessoal ou em grupo
-:class: seealso
-
-1. Qual é a diferença entre *sujeição* e *cumplicidade*?
-2. Em que situações a desobediência civil pode ser justificada pela Bíblia?
-3. Como orar sinceramente por autoridades com as quais discordamos?
-
-*Leve essas perguntas ao seu pastor.*
-:::

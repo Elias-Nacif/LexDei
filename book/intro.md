@@ -39,7 +39,7 @@ Cada **tema** (chamado de capítulo ou seção) é composto por três camadas:
 2. **Pais da Igreja** — Excertos de escritos de Agostinho, João Crisóstomo,
    Calvino, Lutero, Atanásio e outros, mostrando como a tradição cristã
    refletiu sobre o tema.
-3. **Meditações Modernas** — Reflexões contemporâneas, práticas e pastorais,
+3. **Comentários Bíblicos e Pastorais** — Reflexões contemporâneas, práticas e pastorais,
    que ajudem a conectar a Palavra à vida de hoje.
 
 ## Aviso fundamental

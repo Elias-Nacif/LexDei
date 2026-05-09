@@ -13,9 +13,9 @@ da meditação na Palavra. Sua contribuição é bem-vinda.
 - **Citações dos Pais da Igreja** — Agostinho, Crisóstomo, Irineu, Atanásio,
   Calvino, Lutero, Wesley, Spurgeon, entre outros. Indique sempre a obra,
   o livro/capítulo e, se disponível, o link para a fonte em domínio público.
-- **Meditações modernas** — reflexões práticas e pastorais, escritas com
-  clareza e humildade, sobre como aplicar o tema à vida cotidiana. Podem
-  ser textos seus ou de autores em domínio público.
+- **Comentários Bíblicos e Pastorais** — Comentários sobre os textos expostos e suas
+  implicações pastorais no dia a dia. Indique sempre a obra,
+  o livro/capítulo e, se disponível, o link para a fonte em domínio público.
 - **Novos temas** — se você identificar uma área da vida cristã não coberta,
   pode propor um novo capítulo com ao menos uma contribuição inicial nas
   três camadas.
@@ -26,9 +26,6 @@ da meditação na Palavra. Sua contribuição é bem-vinda.
 
 ❌ **Não são bem-vindas contribuições que:**
 
-- Sejam **sectárias ou divisivas** no sentido de atacar outras tradições
-  cristãs históricas (o livro é ecuménico no sentido da catolicidade
-  histórica da fé, não no sentido de sincretismo).
 - **Neguem doutrinas fundamentais** do cristianismo histórico: a Trindade,
   a autoridade das Escrituras, a divindade de Cristo, a redenção pelo Seu
   sangue, a ressurreição corporal.
@@ -69,7 +66,7 @@ Toda contribuição deve:
 Se você não sabe usar o GitHub, pode enviar sua contribuição por e-mail
 para o endereço indicado na página do projeto. Inclua:
 - O tema / capítulo para o qual está contribuindo
-- A camada (Bíblica, Pais da Igreja, Meditação moderna)
+- A camada (Bíblica, Pais da Igreja, Comentários)
 - O texto completo com fontes
 - O nome de quem fez a revisão pastoral
 

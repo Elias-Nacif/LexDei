@@ -1,0 +1,54 @@
+title: Lex Divina
+author: Comunidade Colaborativa — Domínio Público
+logo: _static/logo.png
+
+# Configurações gerais
+description: >
+  Meditações práticas sobre a Lei do Senhor, organizadas por tema,
+  para auxiliar cristãos e seus pastores na reflexão e discernimento diário.
+
+# Idioma
+language: pt
+
+# Repositório (atualize com o seu)
+repository:
+  url: https://github.com/seu-usuario/lex-divina
+  branch: main
+  path_to_book: .
+
+# Permite contribuições externas
+launch_buttons:
+  binderhub_url: ""
+
+# Referências e numeração
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - fieldlist
+    - html_admonition
+    - html_image
+    - smartquotes
+    - substitution
+    - tasklist
+
+# HTML
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_button: true
+  home_page_in_navbar: true
+  extra_navbar: >
+    <p style="font-size:0.85em; color: #666;">
+      Este livro é de domínio público. Contribua com textos que auxiliem
+      na meditação da Lei de Deus, sempre sob orientação pastoral.
+    </p>
+
+# Sphinx extras
+sphinx:
+  extra_extensions: []
+  config:
+    html_theme_options:
+      show_navbar_depth: 2
+      use_download_button: true

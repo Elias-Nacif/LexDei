@@ -26,13 +26,5 @@ iluminar o seu caminho.
   autoridade, obediência e resistência à injustiça.
 - **{doc}`pais-da-igreja`** — Como Agostinho, Lutero, Calvino e outros
   refletiram sobre este tema ao longo da história.
-- **{doc}`meditacoes-modernas`** — Reflexões práticas e pastorais para o
-  cristão contemporâneo.
 
 ---
-
-:::{tip} Antes de continuar
-Pergunte-se: *Qual é a situação concreta que me trouxe a esta página?*
-Ter isso em mente ajuda a ler os textos de forma mais proveitosa —
-e a conversar mais claramente com seu pastor depois.
-:::

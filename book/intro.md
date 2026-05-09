@@ -7,8 +7,8 @@ This book can be used as a template for other books. It includes a starter packa
 
 
 
-'''{tip}
+```{tip}
 testando aqui : [our manual]{https://www.monergism.com/thethreshold/sdg/whitaker/Whitaker-Disputation-on-Scripture.pdf}
-'''
+```
 
 

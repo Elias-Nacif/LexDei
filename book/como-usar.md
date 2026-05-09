@@ -15,9 +15,7 @@ e percorre as três camadas — Escrituras, Tradição, Meditação contemporân
    Deixe cada versículo pousar.
 3. **Leia a reflexão dos Pais.** Pergunte-se: o que a Igreja de todos os tempos
    aprendeu sobre isso?
-4. **Leia a meditação moderna.** Pergunte-se: como isso se aplica à minha
-   situação concreta?
-5. **Anote e converse.** Leve suas perguntas e conclusões ao seu pastor ou
+4. **Anote e converse.** Leve suas perguntas e conclusões ao seu pastor ou
    grupo de discipulado.
 
 ## Sobre as diferentes perspectivas
@@ -34,7 +32,7 @@ discernir o que é aplicável em seu contexto específico.
 ## Sobre os textos bíblicos
 
 Salvo indicação em contrário, os textos bíblicos são apresentados a partir
-de traduções de domínio público (como a Almeida Revisada Impressionada) ou
+de traduções de domínio público (como a Almeida Revisada Atualizada) ou
 com indicação clara da versão utilizada. Ao contribuir, sempre informe
 qual versão está sendo citada.
 

@@ -65,11 +65,11 @@
 
 ---
 
-### **Daniel 3**
-### **Daniel 6** 
-### **Êxodo 1.15–21** 
-### **Jeremias 29.4–7** 
-### **João 19.10–11** 
-### **Apocalipse 13** 
+### Daniel 3
+### Daniel 6 
+### Êxodo 1.15–21 
+### Jeremias 29.4–7 
+### João 19.10–11 
+### Apocalipse 13 
 
 ---
